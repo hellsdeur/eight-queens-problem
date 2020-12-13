@@ -1,12 +1,57 @@
 \documentclass[12pt]{article}
 
 \usepackage{sbc-template}
-\usepackage{graphicx,url,hyperref}
+\usepackage{graphicx,url,hyperref,xcolor,listingsutf8, float, caption, subcaption}
+\usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[brazil]{babel}
 
-     
 \sloppy
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\ttfamily\scriptsize,
+	language=Python,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2,
+	firstnumber=auto
+}
+
+
+\lstset{style=mystyle,
+	literate=
+	{á}{{\'a}}1
+	{à}{{\`a}}1
+	{ã}{{\~a}}1
+	{é}{{\'e}}1
+	{ê}{{\^e}}1
+	{í}{{\'i}}1
+	{ó}{{\'o}}1
+	{õ}{{\~o}}1
+	{ú}{{\'u}}1
+	{ü}{{\"u}}1
+	{ç}{{\c{c}}}1
+	{±}{{+-}}1
+	{♛}{{1}}1
+	{□}{{0}}1
+}
 
 \title{Inteligência Artificial\\Problema das Oito Rainhas}
 
@@ -22,14 +67,6 @@
 \begin{document} 
 
 \maketitle
-
-\begin{abstract}
-	This paper describes the implementation of two local search algorithms, Stochastic Hill Climbing e Genetic Algorithm, aiming to solve the eight queens problem.
-\end{abstract}
-     
-\begin{resumo} 
-	Este artigo descreve a implementação de dois algoritmos de busca local, Stochastic Hill Climbing e Algoritmo Genético, com o intuito de resolver o problema das oito rainhas. 
-\end{resumo}
 
 \input{1-intro}
 

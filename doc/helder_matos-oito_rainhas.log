@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.11.5)  4 DEC 2020 14:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.11.5)  4 DEC 2020 23:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -228,24 +228,94 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip51
 )
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+
+(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count192
+\lst@gtempboxa=\box46
+\lst@token=\toks18
+\lst@length=\count193
+\lst@currlwidth=\dimen161
+\lst@column=\count194
+\lst@pos=\count195
+\lst@lostspace=\dimen162
+\lst@width=\dimen163
+\lst@newlines=\count196
+\lst@lineno=\count197
+\lst@maxwidth=\dimen164
+
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count198
+\lst@skipnumbers=\count199
+\lst@framebox=\box47
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/share/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+))
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks19
+\float@box=\box48
+\@float@everytoks=\toks20
+\@floatcapt=\box49
+)
+(/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count267
+\c@subtable=\count268
+)
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
+2.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
 (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks18
-\inpenc@posthook=\toks19
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2020/05/13 3.44 The Babel package
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2020/05/13 3.44 Babel common definitions
-\babel@savecnt=\count192
-\U@D=\dimen161
+\babel@savecnt=\count269
+\U@D=\dimen165
 \l@babelnohyphens=\language86
 
 (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count193
+\bbl@dirlevel=\count270
 
 (/usr/share/texmf-dist/tex/generic/babel-portuges/brazil.ldf
 Language: portuges 2020/05/04 v1.2r Portuguese support from the babel system
@@ -253,34 +323,32 @@ Package babel Info: \l@brazil = using hyphenrules for portuguese
 (babel)             (\language69) on input line 111.
 Package babel Info: Making " an active character on input line 143.
 ))
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count194
-\l__pdf_internal_box=\box46
+\l__kernel_color_stack_int=\count271
+\l__pdf_internal_box=\box50
 )
 (./helder_matos-oito_rainhas.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
-2.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
 
-(/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -316,21 +384,23 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count195
-\scratchdimen=\dimen162
-\scratchbox=\box47
-\nofMPsegments=\count196
-\nofMParguments=\count197
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count198
-\MPscratchDim=\dimen163
-\MPnumerator=\count199
-\makeMPintoPDFobject=\count266
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count272
+\scratchdimen=\dimen166
+\scratchbox=\box51
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen167
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks24
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -348,8 +418,8 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box48
-Package hyperref Info: Link coloring OFF on input line 22.
+\AtBeginShipoutBox=\box52
+Package hyperref Info: Link coloring OFF on input line 67.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -360,66 +430,216 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count267
+\c@section@level=\count278
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 67.
+LaTeX Info: Redefining \pageref on input line 67.
+LaTeX Info: Redefining \nameref on input line 67.
 
 (./helder_matos-oito_rainhas.out) (./helder_matos-oito_rainhas.out)
 \@outlinefile=\write3
+\c@lstlisting=\count279
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 25.
+(Font)              <12> on input line 70.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 25.
+(Font)              <8> on input line 70.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 25.
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 2
-5.
+(Font)              <6> on input line 70.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 70
+.
 
-(/usr/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) (./1-intro.tex)
-Underfull \hbox (badness 1571) in paragraph at lines 3--35
-\OT1/ptm/m/n/12 Os c[]odigos-fonte, documenta[][]oes e quais-quer ma-te-ri-ais 
-pro-du-zi-dos nesse pro-jeto
+(/usr/share/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+) (./1-intro.tex) (./2-hill.tex
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 8
+.
+(/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 25.
+ (../src/hill-climbing.py)
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (../src/hill-climbing.py
+consecutive:
+)
+Underfull \hbox (badness 1248) in paragraph at lines 41--42
+\T1/ptm/m/n/12 a pos-si-bi-li-dade de exis-ti-rem rai-nhas na mesma co-luna. De
+ssa forma, a fun-ção
  []
 
-(./2-hill.tex) (./3-ag.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 1776) in paragraph at lines 41--42
+[][]\T1/pcr/m/n/12 calculate_fitness() []\T1/ptm/m/n/12 conta a quan-ti-dade de
+ "co-li-sões"para cada rai-nha do
+ []
 
- [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
-(./helder_matos-oito_rainhas.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
+ []
+
+(../src/hill-climbing.py
+consecutive:
+[2])
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+\T1/ptm/m/n/12 De posse das fun-ções [][]\T1/pcr/m/n/12 generate_random_solutio
+n() []\T1/ptm/m/n/12 e
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 47--48
+[][]\T1/pcr/m/n/12 calculate_fitness()[]\T1/ptm/m/n/12 , o corpo prin-ci-pal do
+ al-go-ritmo Sto-chas-tic Hill Clim-
+ []
+
+(../src/hill-climbing.py
+consecutive:
+[3]) (../src/hill-climbing.py
+consecutive:
+) (../src/hill-climbing.py
+consecutive:
+)
+<img/stats_hill.png, id=161, 185.19188pt x 94.10156pt>
+File: img/stats_hill.png Graphic file (type png)
+<use img/stats_hill.png>
+Package pdftex.def Info: img/stats_hill.png  used on input line 83.
+(pdftex.def)             Requested size: 129.6334pt x 65.87062pt.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 84
+.
+ (/usr/share/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+) [4]
+(../src/hill-climbing.py
+consecutive:
+)
+<img/graph_1.png, id=216, 1187.43625pt x 318.18875pt>
+File: img/graph_1.png Graphic file (type png)
+<use img/graph_1.png>
+Package pdftex.def Info: img/graph_1.png  used on input line 98.
+(pdftex.def)             Requested size: 426.79135pt x 114.36336pt.
+ (../src/hill-climbing.py
+consecutive:
+)
+<img/graph_2.png, id=219, 1184.425pt x 318.18875pt>
+File: img/graph_2.png Graphic file (type png)
+<use img/graph_2.png>
+Package pdftex.def Info: img/graph_2.png  used on input line 111.
+(pdftex.def)             Requested size: 426.79135pt x 114.65466pt.
+ [5 <./img/stats_hill.png (PNG copy)> <./img/graph_1.png>]
+(../src/hill-climbing.py
+consecutive:
+)) (./3-ag.tex
+Underfull \vbox (badness 2538) has occurred while \output is active []
+
+ [6 <./img/graph_2.png>] (../src/genetic-algorithm.py) (../src/genetic-algorith
+m.py
+consecutive:
+) (../src/genetic-algorithm.py
+consecutive:
+[7]) (../src/genetic-algorithm.py
+consecutive:
+) (../src/genetic-algorithm.py
+consecutive:
+) [8] (../src/genetic-algorithm.py
+consecutive:
+)
+Underfull \hbox (badness 1603) in paragraph at lines 57--58
+[]\T1/ptm/m/n/12 O \T1/ptm/b/n/12 cru-za-mento \T1/ptm/m/n/12 dos pais es-co-lh
+i-dos de-pende de uma taxa de cru-za-mento
+ []
+
+(../src/genetic-algorithm.py
+consecutive:
+) (../src/genetic-algorithm.py
+consecutive:
+[9]) (../src/genetic-algorithm.py
+consecutive:
+) (../src/genetic-algorithm.py
+consecutive:
+[10]) (../src/genetic-algorithm.py
+consecutive:
+)
+<img/stats_ag.png, id=434, 197.98969pt x 153.57375pt>
+File: img/stats_ag.png Graphic file (type png)
+<use img/stats_ag.png>
+Package pdftex.def Info: img/stats_ag.png  used on input line 102.
+(pdftex.def)             Requested size: 138.59183pt x 107.50089pt.
+ [11] (../src/genetic-algorithm.py
+consecutive:
+)
+<img/df1.png, id=483, 379.4175pt x 519.44063pt>
+File: img/df1.png Graphic file (type png)
+<use img/df1.png>
+Package pdftex.def Info: img/df1.png  used on input line 115.
+(pdftex.def)             Requested size: 189.70828pt x 259.71968pt.
+<img/df2.png, id=484, 379.4175pt x 504.38437pt>
+File: img/df2.png Graphic file (type png)
+<use img/df2.png>
+Package pdftex.def Info: img/df2.png  used on input line 120.
+(pdftex.def)             Requested size: 189.70828pt x 252.19156pt.
+ (../src/genetic-algorithm.py
+consecutive:
+[12 <./img/stats_ag.png (PNG copy)> <./img/df1.png> <./img/df2.png>])
+Overfull \hbox (55.60844pt too wide) in paragraph at lines 149--149
+[]\T1/pcr/m/n/12 Solution:  ['010', '101', '001', '100', '111', '000', '110', '
+011'][] 
+ []
+
+
+Overfull \hbox (55.60844pt too wide) in paragraph at lines 149--149
+[]\T1/pcr/m/n/12 Solution:  ['100', '000', '011', '101', '111', '001', '110', '
+010'][] 
+ []
+
+
+Overfull \hbox (55.60844pt too wide) in paragraph at lines 149--149
+[]\T1/pcr/m/n/12 Solution:  ['000', '010', '101', '111', '001', '011', '000', '
+110'][] 
+ []
+
+
+Overfull \hbox (55.60844pt too wide) in paragraph at lines 149--149
+[]\T1/pcr/m/n/12 Solution:  ['000', '011', '101', '010', '110', '001', '111', '
+100'][] 
+ []
+
+
+Overfull \hbox (55.60844pt too wide) in paragraph at lines 149--149
+[]\T1/pcr/m/n/12 Solution:  ['000', '011', '101', '111', '001', '110', '000', '
+010'][] 
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
+ [13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
+ (./helder_matos-oito_rainhas.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
 Package rerunfilecheck Info: File `helder_matos-oito_rainhas.out' has not chang
 ed.
-(rerunfilecheck)             Checksum: 2A7888AF72C517EE2DE52EE7A325E81F;1662.
+(rerunfilecheck)             Checksum: 874E0065127172B269C3F17FD3BD95AC;1510.
  ) 
 Here is how much of TeX's memory you used:
- 8256 strings out of 480478
- 127127 string characters out of 5905959
- 415891 words of memory out of 5000000
- 24120 multiletter control sequences out of 15000+600000
- 546886 words of font info for 50 fonts, out of 8000000 for 9000
+ 11583 strings out of 480478
+ 170877 string characters out of 5905959
+ 840026 words of memory out of 5000000
+ 26970 multiletter control sequences out of 15000+600000
+ 569460 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,10n,47p,867b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,9n,47p,915b,1883s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/urw/cou
-rier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/s
-hare/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/
-type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a
-.pfb>
-Output written on helder_matos-oito_rainhas.pdf (2 pages, 67679 bytes).
+ts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
+></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-d
+ist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/tim
+es/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on helder_matos-oito_rainhas.pdf (13 pages, 293535 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
- 169 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 631 PDF objects out of 1000 (max. 8388607)
+ 593 compressed objects within 6 object streams
+ 394 named destinations out of 1000 (max. 500000)
+ 183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
